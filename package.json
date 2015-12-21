@@ -1,0 +1,19 @@
+{
+  "name": "serve-root",
+  "version": "0.0.1",
+  "description": "express middleware to serve files in a directory as root",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yomed/serve-root.git"
+  },
+  "author": "Yoni Medoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yomed/serve-root/issues"
+  },
+  "homepage": "https://github.com/yomed/serve-root"
+}
