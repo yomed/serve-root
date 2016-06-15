@@ -1,3 +1,9 @@
+##### Note
+The purpose of this plugin can be achieved in Express with the built in `static` middleware.
+```
+express.static(__dirname + '/icons');
+```
+
 # serve-root
 express middleware to serve files in a directory as root
 
